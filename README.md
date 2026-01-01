@@ -1,6 +1,7 @@
 # Excel Sales & Financial Performance Analysis
 
-This project focuses on analyzing **Sales and Financial performance** using Microsoft Excel dashboards.
+This project focuses on analyzing **Sales and Financial performance** using Microsoft Excel reports and analysis
+.
 The analysis helps stakeholders understand revenue growth, profitability, and market performance.
 
 ---
@@ -23,7 +24,7 @@ The analysis helps stakeholders understand revenue growth, profitability, and ma
 
 ## 🛠 Tools & Skills Used
 - Microsoft Excel
-- Pivot Tables & Pivot Charts
+- Pivot Tables
 - Power Query (ETL)
 - KPI & Growth Analysis
 - Business Reporting
@@ -31,7 +32,7 @@ The analysis helps stakeholders understand revenue growth, profitability, and ma
 ---
 
 ## 📂 Project Structure
-- `sales-analysis/` → Sales dashboards & reports
+- `sales-analysis/` → Sales  reports
 - `financial-analysis/` → Financial & profitability reports
 
 ---
