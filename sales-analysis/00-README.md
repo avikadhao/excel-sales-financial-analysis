@@ -1,7 +1,7 @@
 
 # Sales Analysis
 
-This folder contains Excel dashboards and reports related to sales performance.
+This folder contains Excel reports related to sales performance.
 
 ## Key Reports
 - Customer Sales Performance
